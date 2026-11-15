@@ -24,10 +24,6 @@ IA que identifica ataques em redes com **99.96% de acurácia!**
 ### 🤖 Agente de IA para Reembolso com Azure Foundry - Microsoft
 Agente de IA para ajudar a calcular o reembolso dos funcionários.
 
-## 📊 GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Polyalves2&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyalves2&layout=compact&theme=tokyonight)
 
 ## 💻 Tecnologias
 
