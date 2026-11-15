@@ -29,9 +29,8 @@ Agente de IA para ajudar a calcular o reembolso dos funcionários.
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Polyalves2&show_icons=true&theme=tokyonight)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Polyalves2&layout=compact&theme=tokyonight)
 
-
 ## 💻 Tecnologias
 
-<img src="https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,php,js,ts,html,css" />
 <br>
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,vscode,github,git,colab" />
